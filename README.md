@@ -8,8 +8,8 @@ Este repositorio contiene las evidencias de prácticas desarrolladas en el curso
 
 ### Configuración inicial
 ```bash
-git config --global user.name "Tu Nombre"
-git config --global user.email "tu@email.com"
+git config --global user.name "Shamir_Chavez"
+git config --global user.email "shaje.gg@gmail.com"
 
 Crear repositorio local
 
@@ -18,7 +18,7 @@ cd PracticaCampo1
 git init
 
 Clonar repositorio de GitHub
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/Shajedev/PracticaCampo1.git
 
 Comandos básicos
 
