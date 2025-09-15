@@ -1,4 +1,4 @@
-package practica1;
+package PC3_Sobrecarga_ManejoErrores_Colecciones;
 /*
   Pregunta2_Division.java
   - Programa que realiza una división entre dos números enteros.

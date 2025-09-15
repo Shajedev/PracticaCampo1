@@ -6,7 +6,7 @@
     * sumar(double, double)
   - En el main se demuestra el uso de los tres métodos.
 */
-package practica1;
+package PC3_Sobrecarga_ManejoErrores_Colecciones;
 
 class Calculadora {
     // Suma dos enteros
