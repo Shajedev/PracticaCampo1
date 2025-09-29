@@ -4,5 +4,6 @@
 /**
  * 
  */
-module PracticaCampo1 {
+module POO_Git_Casos {
+    requires jdk.compiler;
 }
